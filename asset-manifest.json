@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d10f182d.css",
-    "main.js": "/static/js/main.e1c3d7bb.js",
-    "static/media/trainer.jpg": "/static/media/trainer.1c716612b8a82565c804.jpg",
-    "static/media/land.jpg": "/static/media/land.606fa7d267e833132eee.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.d10f182d.css.map": "/static/css/main.d10f182d.css.map",
-    "main.e1c3d7bb.js.map": "/static/js/main.e1c3d7bb.js.map"
+    "main.css": "/Fitz-Gym/static/css/main.c9efd44f.css",
+    "main.js": "/Fitz-Gym/static/js/main.2f70f412.js",
+    "static/media/trainer.jpg": "/Fitz-Gym/static/media/trainer.1c716612b8a82565c804.jpg",
+    "static/media/land.jpg": "/Fitz-Gym/static/media/land.606fa7d267e833132eee.jpg",
+    "static/media/slick.svg": "/Fitz-Gym/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Fitz-Gym/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Fitz-Gym/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Fitz-Gym/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Fitz-Gym/index.html",
+    "main.c9efd44f.css.map": "/Fitz-Gym/static/css/main.c9efd44f.css.map",
+    "main.2f70f412.js.map": "/Fitz-Gym/static/js/main.2f70f412.js.map"
   },
   "entrypoints": [
-    "static/css/main.d10f182d.css",
-    "static/js/main.e1c3d7bb.js"
+    "static/css/main.c9efd44f.css",
+    "static/js/main.2f70f412.js"
   ]
 }
