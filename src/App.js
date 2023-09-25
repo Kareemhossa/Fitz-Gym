@@ -1,6 +1,4 @@
 import React from "react";
-import "./App.css";
-// import MultiStepForm from "./Componant/MultiStepForm/MultiStepForm";
 import Navbar from "./Componant/Header/Navbar";
 import SectionHeder from "./Componant/Header/SectionHeder";
 import About from "./Componant/Main/About";
@@ -28,6 +26,3 @@ function App() {
 }
 
 export default App;
-
-//
-//
